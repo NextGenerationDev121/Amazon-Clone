@@ -1,0 +1,11 @@
+.main-section-banner{
+    background-image: url("./img/Amazon\ Banner.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.button{
+    transition-duration: 0.5s;
+}
+.button:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.1);
+}
